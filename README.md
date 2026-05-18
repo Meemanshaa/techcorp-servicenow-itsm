@@ -126,17 +126,7 @@ techcorp-servicenow-itsm/
 
 ## 📸 Screenshots
 
-| Dashboard | Service Catalog |
-|------------|----------------|
-| <img src="./screenshots/02_dashboard.png" width="250"> | <img src="./screenshots/04_service_catalog.png" width="250"> |
-
-| ACL Configuration | CMDB Relationship |
-|------------------|------------------|
-| <img src="./screenshots/07_acl_list.png" width="250"> | <img src="./screenshots/09_cmdb_relationship_map.png" width="250"> |
-
-| Business Rule | Approval Flow |
-|---------------|---------------|
-| <img src="./screenshots/11_business_rule.png" width="250"> | <img src="./screenshots/14_approval_flow.png" width="250"> |
+**📸 View all project screenshots here → [Open Screenshots Folder](./screenshots/)**
 
 ---
 
