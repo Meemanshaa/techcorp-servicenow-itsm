@@ -128,15 +128,15 @@ techcorp-servicenow-itsm/
 
 | Dashboard | Service Catalog |
 |------------|----------------|
-| ![](screenshots/02_dashboard.png) | ![](screenshots/04_service_catalog.png) |
+| <img src="screenshots/02_dashboard.png" width="450"> | <img src="screenshots/04_service_catalog.png" width="450"> |
 
 | ACL Configuration | CMDB Relationship |
 |------------------|------------------|
-| ![](screenshots/07_acl_list.png) | ![](screenshots/09_cmdb_relationship_map.png) |
+| <img src="screenshots/07_acl_list.png" width="450"> | <img src="screenshots/09_cmdb_relationship_map.png" width="450"> |
 
 | Business Rule | Approval Flow |
-|---------------|----------------|
-| ![](screenshots/11_business_rule.png) | ![](screenshots/14_approval_flow.png) |
+|---------------|---------------|
+| <img src="screenshots/11_business_rule.png" width="450"> | <img src="screenshots/14_approval_flow.png" width="450"> |
 
 ---
 
