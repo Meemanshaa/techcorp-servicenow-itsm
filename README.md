@@ -126,7 +126,7 @@ techcorp-servicenow-itsm/
 
 ## 📸 Screenshots
 
-**📸 View all project screenshots here → [Open Screenshots Folder](./screenshots/)**
+**📸 View all project screenshots here → [Open Screenshots Folder](./TechCorp-ServiceNow-ITSM/screenshots/)**
 
 ---
 
