@@ -1,0 +1,19 @@
+name,class,ip_address,environment,location,status,assigned_to,manufacturer,model,os,description
+TECH-WEB-01,cmdb_ci_linux_server,10.0.1.10,Production,Mumbai DC,1,ravi.patel,Dell,PowerEdge R740,Ubuntu 22.04,Primary web server hosting TechCorp intranet portal
+TECH-DB-01,cmdb_ci_linux_server,10.0.1.11,Production,Mumbai DC,1,ravi.patel,Dell,PowerEdge R840,Ubuntu 22.04,Primary database server running PostgreSQL
+TECH-APP-01,cmdb_ci_linux_server,10.0.1.12,Development,Mumbai DC,1,neha.joshi,HP,ProLiant DL380,Ubuntu 20.04,Application server for dev and staging environments
+TECH-BACKUP-01,cmdb_ci_linux_server,10.0.1.13,Production,Pune DC,1,neha.joshi,IBM,System x3650,CentOS 7,Backup and disaster recovery server
+TECH-MON-01,cmdb_ci_linux_server,10.0.1.14,Production,Mumbai DC,1,ravi.patel,Dell,PowerEdge R440,Ubuntu 22.04,Monitoring server running Nagios and Grafana
+TECH-LAP-ARJUN,cmdb_ci_computer,10.0.2.10,Production,Mumbai Office,1,arjun.mehta,Apple,MacBook Pro 14,macOS Ventura,Assigned laptop - IT Support Agent
+TECH-LAP-PRIYA,cmdb_ci_computer,10.0.2.11,Production,Mumbai Office,1,priya.shah,Apple,MacBook Pro 14,macOS Ventura,Assigned laptop - IT Support Agent
+TECH-LAP-RAVI,cmdb_ci_computer,10.0.2.12,Production,Pune Office,1,ravi.patel,Dell,Latitude 5530,Windows 11 Pro,Assigned laptop - IT Operations Engineer
+TECH-LAP-NEHA,cmdb_ci_computer,10.0.2.13,Production,Bangalore Office,1,neha.joshi,Dell,Latitude 5530,Windows 11 Pro,Assigned laptop - IT Operations Engineer
+TECH-LAP-VIKRAM,cmdb_ci_computer,10.0.2.14,Production,Delhi Office,1,vikram.rao,Lenovo,ThinkPad X1 Carbon,Windows 11 Pro,Assigned laptop - Change Manager
+TECH-LAP-AMIT,cmdb_ci_computer,10.0.2.15,Production,Mumbai Office,1,amit.desai,Apple,MacBook Pro 16,macOS Ventura,Assigned laptop - IT Manager
+TECH-LAP-KAVYA,cmdb_ci_computer,10.0.2.16,Production,Mumbai Office,1,kavya.nair,Dell,Inspiron 15,Windows 11 Home,Assigned laptop - End User
+TECH-SW-ITSM,cmdb_ci_appl,10.0.1.10,Production,Mumbai DC,1,amit.desai,ServiceNow,,Tokyo,TechCorp ITSM Portal - Main ServiceNow instance
+TECH-SW-OFFICE,cmdb_ci_appl,,Production,Cloud,1,amit.desai,Microsoft,Microsoft 365,Cloud,Microsoft 365 suite for all employees
+TECH-SW-SLACK,cmdb_ci_appl,,Production,Cloud,1,amit.desai,Slack Technologies,Slack Business+,Cloud,Company communication platform
+TECH-NET-MUMBAI,cmdb_ci_ip_router,10.0.0.1,Production,Mumbai DC,1,ravi.patel,Cisco,ASR 1001-X,,Core router - Mumbai Data Centre
+TECH-NET-FW-01,cmdb_ci_ip_firewall,10.0.0.2,Production,Mumbai DC,1,ravi.patel,Palo Alto,PA-3220,,Primary firewall - Mumbai perimeter
+TECH-PRINTER-MUM,cmdb_ci_peripheral,10.0.2.50,Production,Mumbai Office,1,arjun.mehta,HP,LaserJet Pro M404dn,,Floor 3 printer - Mumbai HQ

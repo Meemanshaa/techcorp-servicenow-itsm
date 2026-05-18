@@ -1,0 +1,16 @@
+first_name,last_name,name,department,email,title,phone,location,manager,active
+John,Smith,John Smith,IT Support,john.smith@techcorp.com,Support Analyst,+91-9876543210,Mumbai,Amit Desai,true
+Meera,Iyer,Meera Iyer,IT Support,meera.iyer@techcorp.com,Support Analyst,+91-9876543211,Bangalore,Amit Desai,true
+Rohan,Verma,Rohan Verma,IT Operations,rohan.verma@techcorp.com,Operations Analyst,+91-9876543212,Pune,Ravi Patel,true
+Divya,Krishnan,Divya Krishnan,IT Operations,divya.krishnan@techcorp.com,Operations Analyst,+91-9876543213,Chennai,Ravi Patel,true
+Karan,Malhotra,Karan Malhotra,Change Management,karan.malhotra@techcorp.com,Change Coordinator,+91-9876543214,Delhi,Vikram Rao,true
+Ananya,Bose,Ananya Bose,Change Management,ananya.bose@techcorp.com,Change Coordinator,+91-9876543215,Kolkata,Vikram Rao,true
+Suresh,Pillai,Suresh Pillai,IT Support,suresh.pillai@techcorp.com,Junior Support Analyst,+91-9876543216,Mumbai,Amit Desai,true
+Pooja,Nair,Pooja Nair,IT Operations,pooja.nair@techcorp.com,Junior Ops Analyst,+91-9876543217,Bangalore,Neha Joshi,true
+Farhan,Sheikh,Farhan Sheikh,Change Management,farhan.sheikh@techcorp.com,Change Analyst,+91-9876543218,Hyderabad,Vikram Rao,true
+Tanya,Kapoor,Tanya Kapoor,IT Support,tanya.kapoor@techcorp.com,Support Specialist,+91-9876543219,Mumbai,Amit Desai,true
+Nikhil,Jain,Nikhil Jain,IT Operations,nikhil.jain@techcorp.com,Network Engineer,+91-9876543220,Pune,Ravi Patel,true
+Shruti,Menon,Shruti Menon,Change Management,shruti.menon@techcorp.com,Release Manager,+91-9876543221,Bangalore,Vikram Rao,true
+Aditya,Sharma,Aditya Sharma,IT Support,aditya.sharma@techcorp.com,Support Engineer,+91-9876543222,Delhi,Amit Desai,true
+Priyanka,Das,Priyanka Das,IT Operations,priyanka.das@techcorp.com,Systems Administrator,+91-9876543223,Chennai,Neha Joshi,true
+Rahul,Chandra,Rahul Chandra,Change Management,rahul.chandra@techcorp.com,Change Manager,+91-9876543224,Mumbai,Vikram Rao,true
