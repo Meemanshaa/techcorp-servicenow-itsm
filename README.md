@@ -124,6 +124,22 @@ techcorp-servicenow-itsm/
 
 ---
 
+## 📸 Screenshots
+
+| Dashboard | Service Catalog |
+|------------|----------------|
+| ![](screenshots/02_dashboard.png) | ![](screenshots/04_service_catalog.png) |
+
+| ACL Configuration | CMDB Relationship |
+|------------------|------------------|
+| ![](screenshots/07_acl_list.png) | ![](screenshots/09_cmdb_relationship_map.png) |
+
+| Business Rule | Approval Flow |
+|---------------|----------------|
+| ![](screenshots/11_business_rule.png) | ![](screenshots/14_approval_flow.png) |
+
+---
+
 ## 💼 Resume Impact
 
 Skills and concepts demonstrated:
