@@ -1,8 +1,6 @@
 # 🏢 TechCorp IT Operations Centre
 
 ![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-00A550?style=for-the-badge&logo=servicenow&logoColor=white)
-![CSA](https://img.shields.io/badge/CSA-6%2F6%20Topics%20Covered-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
 
 A production-grade **Enterprise IT Service Management (ITSM)** environment built entirely on a **ServiceNow Personal Developer Instance (PDI)** as part of ServiceNow **CSA preparation**.
 
